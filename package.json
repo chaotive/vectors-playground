@@ -1,0 +1,22 @@
+{
+  "name": "vectors-playground",
+  "version": "0.0.0",
+  "description": "A place to study vectors math with Typescript :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://chaotive@github.com/chaotive/vectors-playground.git"
+  },
+  "author": "Leonardo Montenegro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaotive/vectors-playground/issues"
+  },
+  "homepage": "https://github.com/chaotive/vectors-playground#readme",
+  "dependencies": {
+    "typescript": "^4.2.2"
+  }
+}
